@@ -1,0 +1,5 @@
+openai==0.27.6
+gpt_index==0.4.24
+PyPDF2==3.0.1
+pycryptodome==3.17
+gradio==3.28.3
