@@ -4,8 +4,10 @@ Steps
 2. Create Virtual environment
    - python3 -m venv custom-gpt
    - cd custom-gpt
+
      // FOR WINDOW
    - bin/activate.bat
+
      // FOR LINUX/MAC
    - source bin/activate.bat
 3. Clone repo
